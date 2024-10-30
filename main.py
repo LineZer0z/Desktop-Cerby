@@ -1,7 +1,7 @@
 import tkinter as tk
 from PIL import Image, ImageTk, ImageSequence
 import random
-import pygame  # Import pygame for sound playback
+import pygame
 
 print("you can minimize this window :)")
 # Initialize pygame mixer for sound playback
