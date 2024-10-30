@@ -14,6 +14,7 @@ REM Upgrade pip and install required packages
 echo Installing required packages...
 python -m pip install --upgrade pip
 python -m pip install pillow
+python -m pip install pygame
 
 REM Run the Python script in a new window and close this batch window
 echo Starting the script...
